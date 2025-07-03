@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trend\\ICS\\projects\\FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B34BF5F-9AA3-4127-A352-4E68AD9C01CC}|FInalProject\\FInalProject.csproj|c:\\users\\trend\\ics\\projects\\final project lesgoooooooooooooooooooooooooooooooooooooooooooooo\\finalproject\\finalproject\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B34BF5F-9AA3-4127-A352-4E68AD9C01CC}|FInalProject\\FInalProject.csproj|solutionrelative:finalproject\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\trend\\ICS\\projects\\FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\\FinalProject\\FInalProject\\Game1.cs",
+              "RelativeDocumentMoniker": "FInalProject\\Game1.cs",
+              "ToolTip": "C:\\Users\\trend\\ICS\\projects\\FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\\FinalProject\\FInalProject\\Game1.cs",
+              "RelativeToolTip": "FInalProject\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcGAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:06:08.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

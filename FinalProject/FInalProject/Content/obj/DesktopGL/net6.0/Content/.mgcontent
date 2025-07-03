@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/../../../FinalProjectResources/tilesets/regular/village tilesets/house1.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/KnightAnims/death.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/KnightAnims/idle.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/KnightAnims/slash.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/KnightAnims/slice.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/KnightAnims/stab.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/KnightAnims/walk.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/skeletonAnims/skeleton_row_1.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/skeletonAnims/skeleton_row_2.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/skeletonAnims/skeleton_row_3.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/skeletonAnims/skeleton_row_5.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/death.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/defend.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/heavyAttack.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/idle.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/move.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/shoot.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/slash.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/slice.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/vikingAnims/stab.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/witchAnims/B_witch_attack.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/witchAnims/B_witch_charge.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/witchAnims/B_witch_death.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/witchAnims/B_witch_idle.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/witchAnims/B_witch_run.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/zombieAnims/zombie_row_1.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/zombieAnims/zombie_row_2.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/zombieAnims/zombie_row_3.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Anims/zombieAnims/zombie_row_4.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Background/bgImg.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Background/endGameBg.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/arrow.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/bow.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/feather.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/log.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/shield.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/stick.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/string.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/Items/sword.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/chestClosed.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/chestOpen.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/craftingTable.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/CraftingTableBg.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/fence.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/finalChest.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/house1.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/houseBg.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/lamp-post.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/main-tree.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/Mario.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/path-tilemap.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/relic.png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/seasonal sample (autumn).png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/seasonal sample (spring).png</File>
+    <File>C:/Users/trend/ICS/projects/FINAL PROJECT LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/FInalProject/FInalProject/Content/textureAtlas/seasonal sample (winter).png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>textureAtlas/house1.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
